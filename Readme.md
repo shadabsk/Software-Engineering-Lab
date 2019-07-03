@@ -15,7 +15,7 @@ Software Engineering Experiments
 
 ## Getting Started
 #### Problem statement for this course Online Adaptive Assessment Platform.  
-* A website/mobile app to give water level and other related parameters data as input and generating a water level trend with forecast. Using the minor irrigation census data on Block basis for every 5 years, the trend in changes in the depth of the wells can be studied for selected areas. This will be helpful in ground water studies.
+* Aspirants/Students  can  be  assessed  on  different  fields  using  this  website.  Fields  can be Reasoning, Aptitude, Technical MCQ, Coding etc. This will be an online platform with  questions  at  different  levels  (Difficulty).  Candidate  would  start  at  assessment with a medium difficulty question and depending on its response, the platform should decide  the  next  level  of  questions  to  be  shown  (level  would  increase  or  decrease  as per response). Each question would be assigned a weight age and time duration.
 * Refer to the respective expreriment doc for detailed info.
 * the .dia files can be open using dia software.
 
